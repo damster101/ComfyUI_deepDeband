@@ -1,6 +1,6 @@
 # ComfyUI_deepDeband
 
-ComyUI wrapper for RaymondLZhou/deepDeband image and video debanding
+ComfyUI wrapper for RaymondLZhou/deepDeband image and video debanding
 
 ![image](https://github.com/user-attachments/assets/61f17843-85f8-44d8-af16-ae3748eeb40c)
 
